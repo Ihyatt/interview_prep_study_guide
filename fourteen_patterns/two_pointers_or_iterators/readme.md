@@ -5,16 +5,29 @@
   <img src="https://media.giphy.com/media/r7Y17m4862kdW/giphy.gif" width="1000" />
 </p>
 
-Following ***are some ways you can identify that the given problem might require a sliding window:***
-* The problem input is a linear data structure such as a linked list, array, or string
-* You’re asked to find the longest/shortest substring, subarray, or a desired value
+Ways to identify when to use the Two Pointer method:
+* It will feature problems where you deal with sorted arrays (or Linked Lists) and need to find a set of elements that fulfill certain constraints
+* The set of elements in the array is a pair, a triplet, or even a subarray
 
 Examples:
 
+* Squaring a sorted array
+* Triplets that sum to zero
+* Comparing strings that contain backspaces
+* 3 sum
+* Remove Duplicates from Sorted Array
+* Next Permutation
+* Add Binary
+* Merge Sorted Array
+* Valid Palindrome
+* One Edit Distance
+* Product of Array Except Self
+* Move Zeroes
+* Valid Palindrome II
+* Add Two Numbers
+* Merge Two Sorted Lists
+* Copy List with Random Pointer
+* Reorder List
 
-* Maximum sum subarray of size ‘K’
-* Longest substring with ‘K’ distinct characters
-* String anagrams
-* Longest Substring Without Repeating Characters
-* Minimum Window Substring
-* Longest Substring with At Most K Distinct Characters
+
+
