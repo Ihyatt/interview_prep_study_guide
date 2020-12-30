@@ -11,11 +11,11 @@ Following ***are some ways you can identify that the given problem might require
 
 Examples:
 
-```
+
 * Maximum sum subarray of size ‘K’
 * Longest substring with ‘K’ distinct characters
 * String anagrams
 * Longest Substring Without Repeating Characters
 * Minimum Window Substring
 * Longest Substring with At Most K Distinct Characters
-```
+
