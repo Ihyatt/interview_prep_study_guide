@@ -1,14 +1,9 @@
 <p align="center">
   <a href="https://medium.com/hackernoon/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed#6698">
     <h1 align="center"> Sliding Window </h1>
-   </a>
+  </a>
+  <img src="https://media.giphy.com/media/5xaOcLSiHjl31yG4ZNK/giphy.gif" width="1000" />
 </p>
-
-
-<div align="center">
- <img src="https://media.giphy.com/media/qw1GZl89LHdII/giphy.gif" width="800" />
-</div>
-
 
 Following ***are some ways you can identify that the given problem might require a sliding window:***
 * The problem input is a linear data structure such as a linked list, array, or string
