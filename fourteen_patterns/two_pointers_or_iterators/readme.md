@@ -1,0 +1,1 @@
+readme for two pointers of iterators
